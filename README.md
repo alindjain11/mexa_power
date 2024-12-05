@@ -1,6 +1,6 @@
 # mexa_power
 
-The **mexa_power** project is developed for **mexa hacheton**. This repository contains the following components:
+The **mexa_power** project is developed for **mexa hackathon**. This repository contains the following components:
 
 ## 1. Dataset Folder
 
