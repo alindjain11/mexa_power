@@ -1,6 +1,6 @@
 # mexa_power
 
-The **mexa_power** project is developed for **mexa hackathon**. This repository contains the following components:
+The **mexa_power** project, "EmpowerSelf: Power of Sleep for Mind" is developed for **MEXA hackathon** taken place during Dec 3-5, 2024. This repository contains the following components:
 
 ## 1. Dataset Folder
 
