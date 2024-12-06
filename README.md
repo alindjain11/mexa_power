@@ -27,6 +27,18 @@ A **Graphical User Interface (GUI)** has been developed that allows users to int
 
 This repository aims to enable the creation of customized wellbeing dashboards using AI-driven insights. By utilizing synthetic data and a fine-tuned LLM model, we provide a tool for users to monitor and track their wellbeing in a personalized manner.
 
+## Project Artifacts
+
+"Psychometrist | Evalyn" library in Google AI Studio:
+https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221zF3XQ3LoUKc3N2KlZ0YG7KMfFJA10zb1%22%5D,%22action%22:%22open%22,%22userId%22:%22117292115876876308818%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
+
+Below are copies of prompts and outputs found in the library.
+1. Prompt 01 - System Instructions.doc
+2. Prompt 02 - Other Promps.doc
+3. Output 01 - Rubrics.xls
+4. Output 02 - Wellbeing Dimension Metrics.doc
+5. Others: Synthetic data + User responses that signal early warning signs of burnout and mental illness to a question, "Hi! How is life treating you?"
+   
 ---
 
 Feel free to explore the repository and contribute to the ongoing development of the **mexa_power** project. For any questions or issues, please open an issue or contact us directly.
