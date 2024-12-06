@@ -25,7 +25,7 @@ A **Graphical User Interface (GUI)** has been developed that allows users to int
 
 ## Project Overview
 
-This repository aims to enable the creation of customized wellbeing dashboards using AI-driven insights. By utilizing synthetic data and a fine-tuned LLM model, we provide a tool for users to monitor and track their wellbeing in a personalized manner.
+This repository aims to enable the creation of customized wellbeing dashboards using AI-driven insights. By utilizing synthetic data and a fine-tuned LLM model, we designed an AI-powered solution for users to monitor and track their wellbeing in a personalized manner.
 
 ## Project Artifacts
 
